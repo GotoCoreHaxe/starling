@@ -1,0 +1,25 @@
+{
+  "name": "gotocore-hx-starling",
+  "url": "https://github.com/GotoCoreHaxe/starling",
+  "license": "MIT",
+  "tags": [
+    "ios",
+    "android",
+    "mac",
+    "windows",
+    "linux",
+    "html5"
+
+  ],
+  "description": "",
+  "version": "1.0.0",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "gotocore-hx": "1.0.1",
+    "starling":""
+  }
+}
